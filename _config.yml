@@ -1,16 +1,16 @@
-name: Your New Jekyll Site
+name: Simon Barrett
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
 highlighter: pygments
-logo: false
+logo: true
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'https://simonbarrett.dev'
 google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'Simon Barrett'
