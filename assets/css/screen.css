@@ -238,7 +238,7 @@ a {
 }
 
 a:hover {
-    color: #111;
+    color: #4989DB;
 }
 
 p, ul, ol, dl {
@@ -737,7 +737,7 @@ margin on the iframe, cause it breaks stuff. */
     bottom: -5px;
     left: 50%;
     margin-left: -5px;
-    background: #FFF;
+    background: #4989DB;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     border-radius: 100%;
@@ -1292,7 +1292,10 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .site-footer {
-    position: relative;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
     margin: 8rem 0 0 0;
     padding: 0.5rem 15px;
     border-top: #EBF2F6 1px solid;
@@ -1309,7 +1312,7 @@ body:not(.post-template) .post-title {
 }
 
 .site-footer a:hover {
-    color: #50585D;
+    color: #4989DB;
 }
 
 .poweredby {
