@@ -5,6 +5,7 @@ publish_mode: editorial_workflow
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under assets/images/uploads
 site_url: https://simonbarrett.dev
 display_url: https://simonbarrett.dev
+logo_url: https://simonbarrett.dev/assets/images/logo.png
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
