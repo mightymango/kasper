@@ -5,7 +5,7 @@ meta_description: "Simon Barrett, blogging about stuff since just the other day"
 twitter: simonbarrett
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 15
 baseurl: /
