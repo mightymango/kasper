@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-description: ""
-date:   2019-02-28 10:18:00
+title: Welcome to Jekyll!
+description: This is an introduction to Jekyll.
+date: 2019-02-28T10:18:00.000Z
 categories: Code
 ---
 
