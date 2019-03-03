@@ -1,6 +1,6 @@
 name: Simon Barrett
-description: Blogging about stuff since the other day.
-meta_description: "Simon Barrett, blogging about stuff since the other day."
+description: Blogging about stuff since the other day
+meta_description: "Simon Barrett, blogging about stuff since the other day"
 
 markdown: kramdown
 highlighter: pygments
