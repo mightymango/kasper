@@ -7,11 +7,22 @@
 .post-excerpt p {
 	display:inline;
 }
+// Change link colour and hover
+a {
+    color: #BBC7CC;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #4989DB;
+}
 
+// Padding to take account of footer
 .content {
 	padding-bottom: 50px;
 }
 
+// Make footer fixed
 .site-footer {
     position: fixed;
     bottom: 0;
