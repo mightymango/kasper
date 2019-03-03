@@ -12,6 +12,14 @@ baseurl: /
 domain_name: 'https://simonbarrett.dev'
 google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
+permalink: /:categories/:year/:month/:day/:title
+
+plugins:
+  - jekyll-toc
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-timeago
 
 # Details for the RSS feed generator
 subscribe:      false

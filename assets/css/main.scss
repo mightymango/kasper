@@ -2,6 +2,14 @@
 # Let's add a comment to make this file sass-y.
 # Change this file for any custom CSS.
 ---
+.main-header {
+    background: #91D1F0 no-repeat center center;
+    background-size: auto;
+}
+.no-cover.main-header {
+    min-height: 320px;
+    max-height: 50%;
+}
 
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
@@ -15,6 +23,15 @@ a {
 }
 a:hover {
     color: #4989DB;
+}
+.pull-right {
+    float: right;
+}
+.text-right {
+    text-align: right;
+}
+.subscribe-button {
+    float: none;
 }
 
 // Padding to take account of footer
