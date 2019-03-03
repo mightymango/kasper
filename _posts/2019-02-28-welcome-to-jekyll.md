@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-description: ""
-date:   2019-02-28 10:18:00
+title: Welcome to Jekyll!
+description: This is an introduction to Jekyll.
+date: 2019-02-28T10:18:00.000Z
 categories: Code
 ---
 
@@ -11,12 +11,11 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers some powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight php %}
+$color = "red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
