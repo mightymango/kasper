@@ -11,7 +11,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers some powerful support for code snippets:
 
-{% highlight php %}
+{% highlight php linenos %}
 $color = "red";
 echo "My car is " . $color . "<br>";
 echo "My house is " . $COLOR . "<br>";
