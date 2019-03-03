@@ -31,6 +31,10 @@ a:hover {
     background-color: #fff;
     opacity: 0.85;
 }
+// Add padding to post meta 
+.post-meta {
+    margin: 1.75rem 0 1.50rem 0;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
