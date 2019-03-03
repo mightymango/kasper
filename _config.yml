@@ -1,6 +1,8 @@
 name: Simon Barrett
-description: Blogging about stuff since the other day
-meta_description: "Simon Barrett, blogging about stuff since the other day"
+description: Blogging about stuff since just the other day
+meta_description: "Simon Barrett, blogging about stuff since just the other day"
+
+twitter: simonbarrett
 
 markdown: kramdown
 highlighter: pygments
@@ -12,6 +14,7 @@ google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
+subscribe:      false
 url:            'blog url'
 author:         'Simon Barrett'
 bio:            'programmer, cook, sometime teacher, enthusiastic banger of drums and not a <a href="https://en.m.wikipedia.org/wiki/Simon_Barrett_(filmmaker)">screenplay writer</a>'

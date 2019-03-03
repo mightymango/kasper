@@ -1,0 +1,42 @@
+// Padding and margins
+$sm: 1rem;
+$md: 1.7rem;
+$lg: 2.8rem;
+
+.padding-sm {
+  padding: $sm;
+}
+.padding-md {
+  padding: $md;
+}
+.padding-lg {
+  padding: $lg;
+}
+.margin-sm {
+  margin: $sm;
+}
+.margin-md {
+  margin: $md;
+}
+.margin-lg {
+  margin: $lg;
+}
+
+.padding-sm-top {
+  padding-top: $sm;
+}
+.padding-md-top {
+  padding-top: $md;
+}
+.padding-lg-top {
+  padding-top: $lg;
+}
+.margin-sm-top {
+  margin-top: $sm;
+}
+.margin-md-top {
+  margin-top: $md;
+}
+.margin-lg-top {
+  margin-top: $lg;
+}
